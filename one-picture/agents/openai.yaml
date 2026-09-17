@@ -1,0 +1,4 @@
+interface:
+  display_name: "One Picture"
+  short_description: "用一张结构清晰的图建立复杂 CS 与 AI 主题整体认知"
+  default_prompt: "Use $one-picture to explain this CS or AI topic with one clear visual mental model."

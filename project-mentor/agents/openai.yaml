@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Mentor"
+  short_description: "Guide real projects while preserving hands-on learning"
+  default_prompt: "Use $project-mentor to mentor me through my project one small complete task at a time."

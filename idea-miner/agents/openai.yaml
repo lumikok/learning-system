@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Miner"
+  short_description: "Mine recent learning for practical, personal ideas"
+  default_prompt: "Use $idea-miner to find a few concrete ideas from my recent learning and projects."

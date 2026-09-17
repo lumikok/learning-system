@@ -1,0 +1,4 @@
+interface:
+  display_name: "Algorithm Coach"
+  short_description: "Build algorithm skill through guided practice"
+  default_prompt: "Use $algorithm-coach to coach me through an algorithm topic or problem without revealing the solution too early."
