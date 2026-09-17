@@ -1,4 +1,4 @@
 interface:
-  display_name: "Fragment Learning"
+  display_name: "碎片学习"
   short_description: "用 5–20 分钟扩展 CS 与 AI 技术视野"
   default_prompt: "使用 $fragment-learning，带我进行一次新鲜的 5–20 分钟 CS 或 AI 技术探索。"

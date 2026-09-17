@@ -1,4 +1,4 @@
 interface:
-  display_name: "Blog from Learning"
+  display_name: "学习成文"
   short_description: "Turn real learning into personal technical blogs"
   default_prompt: "Use $blog-from-learning to turn my real learning or debugging experience into a personal technical blog."

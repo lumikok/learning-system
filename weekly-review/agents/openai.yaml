@@ -1,4 +1,4 @@
 interface:
-  display_name: "Weekly Review"
+  display_name: "每周复盘"
   short_description: "Evidence-based weekly review for CS learning"
   default_prompt: "Use $weekly-review to review what I actually learned and did this week."
